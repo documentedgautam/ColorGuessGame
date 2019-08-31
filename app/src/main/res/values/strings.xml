@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Color Guess Game</string>
+    <string name="Start">Start Game</string>
+    <string name="Score">Scores</string>
+    <string name="Score1">Score : </string>
+    <string name="Inst">Instructions</string>
+    <string name="Exit">Exit</string>
+    <string name="Inst0">INSTRUCTIONS</string>
+    <string name="Inst1">Welcome !! This is a Color Guess Game for kids to help them identify the given color (in english) to help them in learning.</string>
+    <string name="Inst2">To Play the Game, Click on "Start Game" in main menu and then choose the correct option from given options.</string>
+    <string name="Inst3">You can also check the previous scores in "Scores" Section in Main Menu.</string>
+    <string name="back">BACK</string>
+    <string name="next">NEXT</string>
+    <string name="finish">FINISH</string>
+    <string name="GTC">Guess This Color</string>
+    <string name="O1">Option1</string>
+    <string name="O2">Option2</string>
+    <string name="O3">Option3</string>
+    <string name="O4">Option4</string>
+    <string name="Question">Question : </string>
+    <string name="descIMG_quiz">This Image will show the pictures of the colors of which the user need to answer</string>
+    <string name="DATE">DATE</string>
+    <string name="TIME">TIME</string>
+    <string name="Score2">SCORE</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="quesTV">Question : %1$d/%2$d</string>
+    <string name="scoreTV">Score : %1$d</string>
+
+    <string name="T1">Tag1</string>
+</resources>
